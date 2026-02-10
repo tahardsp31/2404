@@ -1989,7 +1989,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250106&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250106&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250106&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250106&extension=ts
-#EXTINF:-1 tvg-id="250106" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|AR| ISLAMIC",##### AR - ISLAMIC #####
+#EXTINF:-1 tvg-id="250106" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|all",##### AR - ISLAMIC #####
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986019&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=986019&extension=ts
@@ -1998,7 +1998,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986019&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986019&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=986019&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986019&extension=ts
-#EXTINF:-1 tvg-id="986019" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%af%d9%8a%d8%b3.png" group-title="|AR| ISLAMIC",عبد الرحمن السديس
+#EXTINF:-1 tvg-id="986019" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%af%d9%8a%d8%b3.png" group-title="|all",عبد الرحمن السديس
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986020&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=986020&extension=ts
@@ -2007,7 +2007,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986020&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986020&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=986020&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986020&extension=ts
-#EXTINF:-1 tvg-id="986020" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b5%d9%85%d8%af.png" group-title="|AR| ISLAMIC",عبد الباسط عبد الصمد
+#EXTINF:-1 tvg-id="986020" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b5%d9%85%d8%af.png" group-title="|all",عبد الباسط عبد الصمد
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986021&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=986021&extension=ts
@@ -2016,7 +2016,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986021&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986021&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=986021&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986021&extension=ts
-#EXTINF:-1 tvg-id="986021" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b3%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%85.png" group-title="|AR| ISLAMIC",سعود الشريم
+#EXTINF:-1 tvg-id="986021" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b3%d8%b9%d9%88%d8%af-%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%85.png" group-title="|all",سعود الشريم
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=986022&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=986022&extension=ts
@@ -2025,7 +2025,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=986022&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=986022&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=986022&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=986022&extension=ts
-#EXTINF:-1 tvg-id="986022" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84.png" group-title="|AR| ISLAMIC",خالد الجليل
+#EXTINF:-1 tvg-id="986022" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84.png" group-title="|all",خالد الجليل
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250114&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250114&extension=ts
@@ -2034,7 +2034,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250114&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250114&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250114&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250114&extension=ts
-#EXTINF:-1 tvg-id="250114" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHL-ALQURAN.png" group-title="|AR| ISLAMIC",AR - AHL AL QURAN
+#EXTINF:-1 tvg-id="250114" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHL-ALQURAN.png" group-title="|all",AR - AHL AL QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=646904&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=646904&extension=ts
@@ -2043,7 +2043,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=646904&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=646904&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=646904&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=646904&extension=ts
-#EXTINF:-1 tvg-id="646904" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHEIKH-MAHER.png" group-title="|AR| ISLAMIC",AR - SHEIKH MAHER
+#EXTINF:-1 tvg-id="646904" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHEIKH-MAHER.png" group-title="|all",AR - SHEIKH MAHER
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=763252&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=763252&extension=ts
@@ -2052,7 +2052,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=763252&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=763252&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=763252&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=763252&extension=ts
-#EXTINF:-1 tvg-id="763252" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/THAQALAYN.png" group-title="|AR| ISLAMIC",AR - THAQALAYN TV
+#EXTINF:-1 tvg-id="763252" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/THAQALAYN.png" group-title="|all",AR - THAQALAYN TV
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=746061&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=746061&extension=ts
@@ -2061,7 +2061,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=746061&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=746061&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=746061&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=746061&extension=ts
-#EXTINF:-1 tvg-id="746061" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSHAMS-ISLAMIC.png" group-title="|AR| ISLAMIC",AR - AL SHAMS ISLAMIC TV
+#EXTINF:-1 tvg-id="746061" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSHAMS-ISLAMIC.png" group-title="|all",AR - AL SHAMS ISLAMIC TV
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=646902&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=646902&extension=ts
@@ -2070,7 +2070,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=646902&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=646902&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=646902&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=646902&extension=ts
-#EXTINF:-1 tvg-id="646902" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHEIKH-SHURAIM.png" group-title="|AR| ISLAMIC",AR - SHEIKH SHURAIM
+#EXTINF:-1 tvg-id="646902" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHEIKH-SHURAIM.png" group-title="|all",AR - SHEIKH SHURAIM
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250111&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250111&extension=ts
@@ -2079,7 +2079,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250111&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250111&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250111&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250111&extension=ts
-#EXTINF:-1 tvg-id="250111" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RESSALA.png" group-title="|AR| ISLAMIC",AR - RESSALA HEVC
+#EXTINF:-1 tvg-id="250111" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RESSALA.png" group-title="|all",AR - RESSALA HEVC
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250110&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250110&extension=ts
@@ -2088,7 +2088,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250110&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250110&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250110&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250110&extension=ts
-#EXTINF:-1 tvg-id="250110" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RESSALA.png" group-title="|AR| ISLAMIC",AR - RESSALA
+#EXTINF:-1 tvg-id="250110" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RESSALA.png" group-title="|all",AR - RESSALA
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250112&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250112&extension=ts
@@ -2097,7 +2097,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250112&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250112&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250112&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250112&extension=ts
-#EXTINF:-1 tvg-id="250112" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALRAHMA.png" group-title="|AR| ISLAMIC",AR - AL RAHMA
+#EXTINF:-1 tvg-id="250112" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALRAHMA.png" group-title="|all",AR - AL RAHMA
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250118&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250118&extension=ts
@@ -2106,7 +2106,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250118&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250118&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250118&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250118&extension=ts
-#EXTINF:-1 tvg-id="250118" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BIN-OTHAIMEEN.png" group-title="|AR| ISLAMIC",AR - BIN OTHAIMEEN
+#EXTINF:-1 tvg-id="250118" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BIN-OTHAIMEEN.png" group-title="|all",AR - BIN OTHAIMEEN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007019&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007019&extension=ts
@@ -2115,7 +2115,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007019&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007019&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007019&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007019&extension=ts
-#EXTINF:-1 tvg-id="1007019" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - QURAN TOW
+#EXTINF:-1 tvg-id="1007019" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - QURAN TOW
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007018&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007018&extension=ts
@@ -2124,7 +2124,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007018&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007018&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007018&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007018&extension=ts
-#EXTINF:-1 tvg-id="1007018" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - QURAN ONE
+#EXTINF:-1 tvg-id="1007018" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - QURAN ONE
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007017&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007017&extension=ts
@@ -2133,7 +2133,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007017&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007017&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007017&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007017&extension=ts
-#EXTINF:-1 tvg-id="1007017" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - AL AFASY QURAN
+#EXTINF:-1 tvg-id="1007017" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - AL AFASY QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007016&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007016&extension=ts
@@ -2142,7 +2142,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007016&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007016&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007016&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007016&extension=ts
-#EXTINF:-1 tvg-id="1007016" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - MOHAMED GIBRIL QURAN
+#EXTINF:-1 tvg-id="1007016" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - MOHAMED GIBRIL QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007015&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007015&extension=ts
@@ -2151,7 +2151,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007015&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007015&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007015&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007015&extension=ts
-#EXTINF:-1 tvg-id="1007015" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - SALAH BUKHATIR QURAN
+#EXTINF:-1 tvg-id="1007015" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - SALAH BUKHATIR QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007014&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007014&extension=ts
@@ -2160,7 +2160,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007014&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007014&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007014&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007014&extension=ts
-#EXTINF:-1 tvg-id="1007014" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - RAAD ALKURDI QURAN
+#EXTINF:-1 tvg-id="1007014" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - RAAD ALKURDI QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007013&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007013&extension=ts
@@ -2169,7 +2169,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007013&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007013&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007013&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007013&extension=ts
-#EXTINF:-1 tvg-id="1007013" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - SAOUD SHURAIM QURAN
+#EXTINF:-1 tvg-id="1007013" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - SAOUD SHURAIM QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007012&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007012&extension=ts
@@ -2178,7 +2178,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007012&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007012&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007012&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007012&extension=ts
-#EXTINF:-1 tvg-id="1007012" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - M SIDIK ALMANCHAWI QURAN
+#EXTINF:-1 tvg-id="1007012" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - M SIDIK ALMANCHAWI QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007011&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007011&extension=ts
@@ -2187,7 +2187,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007011&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007011&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007011&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007011&extension=ts
-#EXTINF:-1 tvg-id="1007011" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - ABD ELBASET QURAN
+#EXTINF:-1 tvg-id="1007011" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - ABD ELBASET QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007010&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007010&extension=ts
@@ -2196,7 +2196,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007010&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007010&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007010&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007010&extension=ts
-#EXTINF:-1 tvg-id="1007010" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - AHMED ALAJMI QURAN
+#EXTINF:-1 tvg-id="1007010" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - AHMED ALAJMI QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007009&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007009&extension=ts
@@ -2205,7 +2205,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007009&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007009&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007009&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007009&extension=ts
-#EXTINF:-1 tvg-id="1007009" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - FARES ABAD QURAN
+#EXTINF:-1 tvg-id="1007009" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - FARES ABAD QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007008&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007008&extension=ts
@@ -2214,7 +2214,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007008&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007008&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007008&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007008&extension=ts
-#EXTINF:-1 tvg-id="1007008" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - AL MUAIQLY QURAN
+#EXTINF:-1 tvg-id="1007008" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - AL MUAIQLY QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007007&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007007&extension=ts
@@ -2223,7 +2223,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007007&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007007&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007007&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007007&extension=ts
-#EXTINF:-1 tvg-id="1007007" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - AL-SUDAIS QURAN
+#EXTINF:-1 tvg-id="1007007" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - AL-SUDAIS QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1007006&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1007006&extension=ts
@@ -2232,7 +2232,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1007006&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1007006&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1007006&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1007006&extension=ts
-#EXTINF:-1 tvg-id="1007006" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|AR| ISLAMIC",AR - MISHARI AL AFASI QURAN
+#EXTINF:-1 tvg-id="1007006" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/QURAN.png" group-title="|all",AR - MISHARI AL AFASI QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1081618&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1081618&extension=ts
@@ -2241,7 +2241,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1081618&ext
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1081618&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1081618&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1081618&extension=ts
-#EXTINF:-1 tvg-id="1081618" tvg-logo="http://103.176.90.118/picons/logos/arabic/EMANE-CHANNEL.png" group-title="|AR| ISLAMIC",AR - EMANE CHANNEL
+#EXTINF:-1 tvg-id="1081618" tvg-logo="http://103.176.90.118/picons/logos/arabic/EMANE-CHANNEL.png" group-title="|all",AR - EMANE CHANNEL
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250120&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250120&extension=ts
@@ -2250,7 +2250,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250120&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250120&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250120&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250120&extension=ts
-#EXTINF:-1 tvg-id="250120" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSIRAT.png" group-title="|AR| ISLAMIC",AR - AL SIRAT
+#EXTINF:-1 tvg-id="250120" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSIRAT.png" group-title="|all",AR - AL SIRAT
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250122&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250122&extension=ts
@@ -2259,7 +2259,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250122&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250122&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250122&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250122&extension=ts
-#EXTINF:-1 tvg-id="250122" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALMAHDI.png" group-title="|AR| ISLAMIC",AR - AL MAHDI
+#EXTINF:-1 tvg-id="250122" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALMAHDI.png" group-title="|all",AR - AL MAHDI
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250116&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250116&extension=ts
@@ -2268,7 +2268,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250116&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250116&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250116&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250116&extension=ts
-#EXTINF:-1 tvg-id="250116" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALMAJD.png" group-title="|AR| ISLAMIC",AR - AL MAJD QURAN
+#EXTINF:-1 tvg-id="250116" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALMAJD.png" group-title="|all",AR - AL MAJD QURAN
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250117&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250117&extension=ts
@@ -2277,7 +2277,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250117&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250117&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250117&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250117&extension=ts
-#EXTINF:-1 tvg-id="250117" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALMAJD.png" group-title="|AR| ISLAMIC",AR - AL MAJD TV
+#EXTINF:-1 tvg-id="250117" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALMAJD.png" group-title="|all",AR - AL MAJD TV
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250124&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250124&extension=ts
@@ -2286,7 +2286,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250124&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250124&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250124&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250124&extension=ts
-#EXTINF:-1 tvg-id="250124" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSALAM.png" group-title="|AR| ISLAMIC",AR - AL SALAM
+#EXTINF:-1 tvg-id="250124" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSALAM.png" group-title="|all",AR - AL SALAM
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250123&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250123&extension=ts
@@ -2295,7 +2295,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250123&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250123&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250123&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250123&extension=ts
-#EXTINF:-1 tvg-id="250123" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALWILAYAH.png" group-title="|AR| ISLAMIC",AR - AL WILAYAH TV
+#EXTINF:-1 tvg-id="250123" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALWILAYAH.png" group-title="|all",AR - AL WILAYAH TV
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250125&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250125&extension=ts
@@ -2304,7 +2304,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250125&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250125&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250125&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250125&extension=ts
-#EXTINF:-1 tvg-id="250125" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALFATH.png" group-title="|AR| ISLAMIC",AR - ALFATH TV
+#EXTINF:-1 tvg-id="250125" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALFATH.png" group-title="|all",AR - ALFATH TV
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=686949&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=686949&extension=ts
@@ -2313,7 +2313,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=686949&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=686949&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=686949&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=686949&extension=ts
-#EXTINF:-1 tvg-id="686949" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AZHARITV.png" group-title="|AR| ISLAMIC",AR - AZHARI
+#EXTINF:-1 tvg-id="686949" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AZHARITV.png" group-title="|all",AR - AZHARI
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250121&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250121&extension=ts
@@ -2322,7 +2322,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250121&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250121&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250121&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250121&extension=ts
-#EXTINF:-1 tvg-id="250121" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MISR-QURAN-KAREM.png" group-title="|AR| ISLAMIC",AR - MISR QURAN KAREEM
+#EXTINF:-1 tvg-id="250121" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MISR-QURAN-KAREM.png" group-title="|all",AR - MISR QURAN KAREEM
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250115&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250115&extension=ts
@@ -2331,7 +2331,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250115&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250115&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250115&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250115&extension=ts
-#EXTINF:-1 tvg-id="250115" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ZAD-TV.png" group-title="|AR| ISLAMIC",AR - ZAD TV
+#EXTINF:-1 tvg-id="250115" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ZAD-TV.png" group-title="|all",AR - ZAD TV
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=458401&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=458401&extension=ts
@@ -2340,7 +2340,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=458401&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=458401&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=458401&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=458401&extension=ts
-#EXTINF:-1 tvg-id="458401" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALNAS.png" group-title="|AR| ISLAMIC",AR - AL NAS
+#EXTINF:-1 tvg-id="458401" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALNAS.png" group-title="|all",AR - AL NAS
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=643772&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=643772&extension=ts
@@ -2349,7 +2349,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=643772&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=643772&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=643772&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=643772&extension=ts
-#EXTINF:-1 tvg-id="643772" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/IMAM-SADEQ.png" group-title="|AR| ISLAMIC",AR - IMAM SADEQ
+#EXTINF:-1 tvg-id="643772" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/IMAM-SADEQ.png" group-title="|all",AR - IMAM SADEQ
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=707989&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=707989&extension=ts
@@ -2358,7 +2358,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=707989&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=707989&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=707989&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=707989&extension=ts
-#EXTINF:-1 tvg-id="707989" tvg-logo="https://png.pngtree.com/png-vector/20210403/ourlarge/pngtree-islamic-logo-png-image_3146049.jpg" group-title="|AR| ISLAMIC",##### ENGLISH #####
+#EXTINF:-1 tvg-id="707989" tvg-logo="https://png.pngtree.com/png-vector/20210403/ourlarge/pngtree-islamic-logo-png-image_3146049.jpg" group-title="|all",##### ENGLISH #####
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=707988&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=707988&extension=ts
@@ -2367,7 +2367,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=707988&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=707988&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=707988&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=707988&extension=ts
-#EXTINF:-1 tvg-id="707988" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|AR| ISLAMIC",EN - STORY OF PROPHET MOHAMMED (PHUB)
+#EXTINF:-1 tvg-id="707988" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|all",EN - STORY OF PROPHET MOHAMMED (PHUB)
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=707987&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=707987&extension=ts
@@ -2376,7 +2376,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=707987&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=707987&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=707987&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=707987&extension=ts
-#EXTINF:-1 tvg-id="707987" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|AR| ISLAMIC",EN - STORIES OF THE SAHABA
+#EXTINF:-1 tvg-id="707987" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|all",EN - STORIES OF THE SAHABA
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=707986&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=707986&extension=ts
@@ -2385,7 +2385,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=707986&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=707986&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=707986&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=707986&extension=ts
-#EXTINF:-1 tvg-id="707986" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|AR| ISLAMIC",EN - STORIES OF THE PROPHETS
+#EXTINF:-1 tvg-id="707986" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|all",EN - STORIES OF THE PROPHETS
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=707985&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=707985&extension=ts
@@ -2394,7 +2394,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=707985&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=707985&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=707985&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=707985&extension=ts
-#EXTINF:-1 tvg-id="707985" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|AR| ISLAMIC",EN - ISLAMIC REMINDERS
+#EXTINF:-1 tvg-id="707985" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|all",EN - ISLAMIC REMINDERS
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=707984&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=707984&extension=ts
@@ -2403,7 +2403,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=707984&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=707984&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=707984&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=707984&extension=ts
-#EXTINF:-1 tvg-id="707984" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|AR| ISLAMIC",EN - ABDULLAH HUMAID RECITATIONS
+#EXTINF:-1 tvg-id="707984" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="|all",EN - ABDULLAH HUMAID RECITATIONS
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697049&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697049&extension=ts
@@ -2412,7 +2412,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697049&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697049&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697049&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697049&extension=ts
-#EXTINF:-1 tvg-id="697049" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",##### RAMADAN 2022 #####
+#EXTINF:-1 tvg-id="697049" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",##### RAMADAN 2022 #####
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697048&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697048&extension=ts
@@ -2421,7 +2421,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697048&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697048&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697048&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697048&extension=ts
-#EXTINF:-1 tvg-id="697048" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN AMROU KHALED
+#EXTINF:-1 tvg-id="697048" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN AMROU KHALED
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697047&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697047&extension=ts
@@ -2430,7 +2430,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697047&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697047&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697047&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697047&extension=ts
-#EXTINF:-1 tvg-id="697047" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN DUAA
+#EXTINF:-1 tvg-id="697047" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN DUAA
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697045&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697045&extension=ts
@@ -2439,7 +2439,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697045&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697045&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697045&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697045&extension=ts
-#EXTINF:-1 tvg-id="697045" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN KHAWATER
+#EXTINF:-1 tvg-id="697045" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN KHAWATER
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697044&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697044&extension=ts
@@ -2448,7 +2448,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697044&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697044&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697044&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697044&extension=ts
-#EXTINF:-1 tvg-id="697044" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN KIDS
+#EXTINF:-1 tvg-id="697044" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN KIDS
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697043&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697043&extension=ts
@@ -2457,7 +2457,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697043&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697043&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697043&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697043&extension=ts
-#EXTINF:-1 tvg-id="697043" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN Quran
+#EXTINF:-1 tvg-id="697043" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN Quran
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697042&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697042&extension=ts
@@ -2466,7 +2466,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697042&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697042&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697042&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697042&extension=ts
-#EXTINF:-1 tvg-id="697042" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN SAHIH ELBOKHARI
+#EXTINF:-1 tvg-id="697042" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN SAHIH ELBOKHARI
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697041&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697041&extension=ts
@@ -2475,7 +2475,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697041&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697041&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697041&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697041&extension=ts
-#EXTINF:-1 tvg-id="697041" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN SAUD AL SHURAIM
+#EXTINF:-1 tvg-id="697041" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN SAUD AL SHURAIM
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697040&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697040&extension=ts
@@ -2484,7 +2484,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697040&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697040&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697040&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697040&extension=ts
-#EXTINF:-1 tvg-id="697040" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN SERIES
+#EXTINF:-1 tvg-id="697040" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN SERIES
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697039&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697039&extension=ts
@@ -2493,7 +2493,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697039&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697039&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697039&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697039&extension=ts
-#EXTINF:-1 tvg-id="697039" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN SOBHI
+#EXTINF:-1 tvg-id="697039" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN SOBHI
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=697038&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=697038&extension=ts
@@ -2502,7 +2502,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=697038&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=697038&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=697038&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=697038&extension=ts
-#EXTINF:-1 tvg-id="697038" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|AR| ISLAMIC",AR - RAMADAN SOUDAIS
+#EXTINF:-1 tvg-id="697038" tvg-logo="http://103.176.90.118/picons/logos/RAMADAN.png" group-title="|all",AR - RAMADAN SOUDAIS
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698848&extension=ts
@@ -2511,7 +2511,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698848&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698848&extension=ts
-#EXTINF:-1 tvg-id="698848" tvg-logo="http://www.quicklook4u.com/bawaba/wp-content/uploads/2013/07/%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%AA%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.png" group-title="|AR| ISLAMIC",##تفسير القرآن الكريم للشيخ الشعراوي##
+#EXTINF:-1 tvg-id="698848" tvg-logo="http://www.quicklook4u.com/bawaba/wp-content/uploads/2013/07/%D9%85%D8%AD%D9%85%D8%AF_%D9%85%D8%AA%D9%88%D9%84%D9%8A_%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%8A.png" group-title="|all",##تفسير القرآن الكريم للشيخ الشعراوي##
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698849&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698849&extension=ts
@@ -2520,7 +2520,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698849&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698849&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698849&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698849&extension=ts
-#EXTINF:-1 tvg-id="698849" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 1
+#EXTINF:-1 tvg-id="698849" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 1
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698850&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698850&extension=ts
@@ -2529,7 +2529,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698850&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698850&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698850&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698850&extension=ts
-#EXTINF:-1 tvg-id="698850" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 2
+#EXTINF:-1 tvg-id="698850" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 2
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698851&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698851&extension=ts
@@ -2538,7 +2538,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698851&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698851&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698851&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698851&extension=ts
-#EXTINF:-1 tvg-id="698851" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 3
+#EXTINF:-1 tvg-id="698851" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 3
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698852&extension=ts
@@ -2547,7 +2547,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698852&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698852&extension=ts
-#EXTINF:-1 tvg-id="698852" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 4
+#EXTINF:-1 tvg-id="698852" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 4
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698853&extension=ts
@@ -2556,7 +2556,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698853&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698853&extension=ts
-#EXTINF:-1 tvg-id="698853" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 5
+#EXTINF:-1 tvg-id="698853" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 5
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698854&extension=ts
@@ -2565,7 +2565,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698854&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698854&extension=ts
-#EXTINF:-1 tvg-id="698854" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 6
+#EXTINF:-1 tvg-id="698854" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 6
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698855&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698855&extension=ts
@@ -2574,7 +2574,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698855&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698855&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698855&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698855&extension=ts
-#EXTINF:-1 tvg-id="698855" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 7
+#EXTINF:-1 tvg-id="698855" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 7
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=698856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=698856&extension=ts
@@ -2583,7 +2583,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=698856&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=698856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=698856&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=698856&extension=ts
-#EXTINF:-1 tvg-id="698856" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|AR| ISLAMIC",AR - TAFSSIR ALQURAAN 8
+#EXTINF:-1 tvg-id="698856" tvg-logo="https://cdn.pixabay.com/photo/2020/08/06/01/26/quran-5466733_960_720.png" group-title="|all",AR - TAFSSIR ALQURAAN 8
 
 
 
@@ -2594,7 +2594,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724292&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724292&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724292&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724292&extension=ts
-#EXTINF:-1 tvg-id="724292" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",##### OSN GROUP #####
+#EXTINF:-1 tvg-id="724292" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",##### OSN GROUP #####
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724291&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724291&extension=ts
@@ -2603,7 +2603,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724291&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724291&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724291&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724291&extension=ts
-#EXTINF:-1 tvg-id="724291" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - JAWWY TV UHD
+#EXTINF:-1 tvg-id="724291" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - JAWWY TV UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724290&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724290&extension=ts
@@ -2612,7 +2612,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724290&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724290&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724290&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724290&extension=ts
-#EXTINF:-1 tvg-id="724290" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - YAHALA UHD
+#EXTINF:-1 tvg-id="724290" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - YAHALA UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724289&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724289&extension=ts
@@ -2621,7 +2621,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724289&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724289&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724289&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724289&extension=ts
-#EXTINF:-1 tvg-id="724289" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - YAHALA AFLAM UHD
+#EXTINF:-1 tvg-id="724289" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - YAHALA AFLAM UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724288&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724288&extension=ts
@@ -2630,7 +2630,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724288&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724288&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724288&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724288&extension=ts
-#EXTINF:-1 tvg-id="724288" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - YAHALA BIL ARABI UHD
+#EXTINF:-1 tvg-id="724288" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - YAHALA BIL ARABI UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724285&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724285&extension=ts
@@ -2639,7 +2639,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724285&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724285&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724285&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724285&extension=ts
-#EXTINF:-1 tvg-id="724285" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - ALYAWM UHD
+#EXTINF:-1 tvg-id="724285" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - ALYAWM UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724284&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724284&extension=ts
@@ -2648,7 +2648,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724284&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724284&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724284&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724284&extension=ts
-#EXTINF:-1 tvg-id="724284" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - SAFWAH UHD
+#EXTINF:-1 tvg-id="724284" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - SAFWAH UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724283&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724283&extension=ts
@@ -2657,7 +2657,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724283&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724283&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724283&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724283&extension=ts
-#EXTINF:-1 tvg-id="724283" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - FAN UHD
+#EXTINF:-1 tvg-id="724283" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - FAN UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724282&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724282&extension=ts
@@ -2666,7 +2666,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724282&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724282&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724282&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724282&extension=ts
-#EXTINF:-1 tvg-id="724282" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - CINEMA 1 UHD
+#EXTINF:-1 tvg-id="724282" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - CINEMA 1 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724281&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724281&extension=ts
@@ -2675,7 +2675,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724281&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724281&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724281&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724281&extension=ts
-#EXTINF:-1 tvg-id="724281" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - CINEMA 2 UHD
+#EXTINF:-1 tvg-id="724281" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - CINEMA 2 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724280&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724280&extension=ts
@@ -2684,7 +2684,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724280&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724280&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724280&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724280&extension=ts
-#EXTINF:-1 tvg-id="724280" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - ART HEKAYAT 1 UHD
+#EXTINF:-1 tvg-id="724280" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - ART HEKAYAT 1 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724279&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724279&extension=ts
@@ -2693,7 +2693,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724279&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724279&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724279&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724279&extension=ts
-#EXTINF:-1 tvg-id="724279" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - ART HEKAYAT 2 UHD
+#EXTINF:-1 tvg-id="724279" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - ART HEKAYAT 2 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724278&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724278&extension=ts
@@ -2702,7 +2702,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724278&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724278&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724278&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724278&extension=ts
-#EXTINF:-1 tvg-id="724278" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - ART AFLAM 1 UHD
+#EXTINF:-1 tvg-id="724278" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - ART AFLAM 1 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724277&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724277&extension=ts
@@ -2711,7 +2711,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724277&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724277&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724277&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724277&extension=ts
-#EXTINF:-1 tvg-id="724277" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - ART AFLAM 2 UHD
+#EXTINF:-1 tvg-id="724277" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - ART AFLAM 2 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724276&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724276&extension=ts
@@ -2720,7 +2720,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724276&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724276&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724276&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724276&extension=ts
-#EXTINF:-1 tvg-id="724276" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - ART CINEMA UHD
+#EXTINF:-1 tvg-id="724276" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - ART CINEMA UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=904287&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=904287&extension=ts
@@ -2729,7 +2729,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=904287&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=904287&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=904287&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=904287&extension=ts
-#EXTINF:-1 tvg-id="904287" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MUSALSALAT 1 UHD
+#EXTINF:-1 tvg-id="904287" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MUSALSALAT 1 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=904288&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=904288&extension=ts
@@ -2738,7 +2738,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=904288&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=904288&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=904288&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=904288&extension=ts
-#EXTINF:-1 tvg-id="904288" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MUSALSALAT 2 UHD
+#EXTINF:-1 tvg-id="904288" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MUSALSALAT 2 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724274&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724274&extension=ts
@@ -2747,7 +2747,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724274&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724274&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724274&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724274&extension=ts
-#EXTINF:-1 tvg-id="724274" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - BLOOMBERG UHD
+#EXTINF:-1 tvg-id="724274" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - BLOOMBERG UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724273&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724273&extension=ts
@@ -2756,7 +2756,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724273&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724273&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724273&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724273&extension=ts
-#EXTINF:-1 tvg-id="724273" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - COMDEY UHD
+#EXTINF:-1 tvg-id="724273" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - COMDEY UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724272&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724272&extension=ts
@@ -2765,7 +2765,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724272&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724272&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724272&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724272&extension=ts
-#EXTINF:-1 tvg-id="724272" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - DISCOVERY IDX UHD
+#EXTINF:-1 tvg-id="724272" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - DISCOVERY IDX UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724271&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724271&extension=ts
@@ -2774,7 +2774,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724271&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724271&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724271&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724271&extension=ts
-#EXTINF:-1 tvg-id="724271" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - DISCOVERY SCIENCE UHD
+#EXTINF:-1 tvg-id="724271" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - DISCOVERY SCIENCE UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724270&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724270&extension=ts
@@ -2783,7 +2783,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724270&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724270&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724270&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724270&extension=ts
-#EXTINF:-1 tvg-id="724270" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - DISCOVERY UHD
+#EXTINF:-1 tvg-id="724270" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - DISCOVERY UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724269&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724269&extension=ts
@@ -2792,7 +2792,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724269&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724269&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724269&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724269&extension=ts
-#EXTINF:-1 tvg-id="724269" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - DISNEY CHANNEL UHD
+#EXTINF:-1 tvg-id="724269" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - DISNEY CHANNEL UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724268&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724268&extension=ts
@@ -2801,7 +2801,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724268&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724268&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724268&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724268&extension=ts
-#EXTINF:-1 tvg-id="724268" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - DISNEY JUNIOR UHD
+#EXTINF:-1 tvg-id="724268" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - DISNEY JUNIOR UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724267&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724267&extension=ts
@@ -2810,7 +2810,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724267&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724267&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724267&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724267&extension=ts
-#EXTINF:-1 tvg-id="724267" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - E UHD
+#EXTINF:-1 tvg-id="724267" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - E UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724266&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724266&extension=ts
@@ -2819,7 +2819,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724266&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724266&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724266&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724266&extension=ts
-#EXTINF:-1 tvg-id="724266" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - FAMILY UHD
+#EXTINF:-1 tvg-id="724266" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - FAMILY UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724264&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724264&extension=ts
@@ -2828,7 +2828,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724264&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724264&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724264&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724264&extension=ts
-#EXTINF:-1 tvg-id="724264" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - GINX ESPORTS UHD
+#EXTINF:-1 tvg-id="724264" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - GINX ESPORTS UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724263&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724263&extension=ts
@@ -2837,7 +2837,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724263&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724263&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724263&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724263&extension=ts
-#EXTINF:-1 tvg-id="724263" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - HISTORY 2 UHD
+#EXTINF:-1 tvg-id="724263" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - HISTORY 2 UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724262&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724262&extension=ts
@@ -2846,7 +2846,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724262&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724262&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724262&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724262&extension=ts
-#EXTINF:-1 tvg-id="724262" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - HISTORY UHD
+#EXTINF:-1 tvg-id="724262" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - HISTORY UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724261&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724261&extension=ts
@@ -2855,7 +2855,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724261&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724261&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724261&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724261&extension=ts
-#EXTINF:-1 tvg-id="724261" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - KID ZONE TV UHD
+#EXTINF:-1 tvg-id="724261" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - KID ZONE TV UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724260&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724260&extension=ts
@@ -2864,7 +2864,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724260&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724260&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724260&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724260&extension=ts
-#EXTINF:-1 tvg-id="724260" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - KIDS UHD
+#EXTINF:-1 tvg-id="724260" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - KIDS UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724259&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724259&extension=ts
@@ -2873,7 +2873,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724259&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724259&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724259&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724259&extension=ts
-#EXTINF:-1 tvg-id="724259" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - LIVING UHD
+#EXTINF:-1 tvg-id="724259" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - LIVING UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724258&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724258&extension=ts
@@ -2882,7 +2882,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724258&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724258&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724258&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724258&extension=ts
-#EXTINF:-1 tvg-id="724258" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MEZZE UHD
+#EXTINF:-1 tvg-id="724258" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MEZZE UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724257&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724257&extension=ts
@@ -2891,7 +2891,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724257&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724257&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724257&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724257&extension=ts
-#EXTINF:-1 tvg-id="724257" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MOONBUG KIDS UHD
+#EXTINF:-1 tvg-id="724257" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MOONBUG KIDS UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724256&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724256&extension=ts
@@ -2900,7 +2900,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724256&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724256&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724256&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724256&extension=ts
-#EXTINF:-1 tvg-id="724256" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MOVIES ACTION UHD
+#EXTINF:-1 tvg-id="724256" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MOVIES ACTION UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724255&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724255&extension=ts
@@ -2909,7 +2909,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724255&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724255&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724255&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724255&extension=ts
-#EXTINF:-1 tvg-id="724255" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MOVIES HOLLYWOOD UHD
+#EXTINF:-1 tvg-id="724255" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MOVIES HOLLYWOOD UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724254&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724254&extension=ts
@@ -2918,7 +2918,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724254&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724254&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724254&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724254&extension=ts
-#EXTINF:-1 tvg-id="724254" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - MOVIES PREMIERE UHD
+#EXTINF:-1 tvg-id="724254" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - MOVIES PREMIERE UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724251&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724251&extension=ts
@@ -2927,7 +2927,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724251&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724251&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724251&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724251&extension=ts
-#EXTINF:-1 tvg-id="724251" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - NEWS UHD
+#EXTINF:-1 tvg-id="724251" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - NEWS UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724250&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724250&extension=ts
@@ -2936,7 +2936,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724250&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724250&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724250&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724250&extension=ts
-#EXTINF:-1 tvg-id="724250" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - NICK JR. UHD
+#EXTINF:-1 tvg-id="724250" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - NICK JR. UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724249&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724249&extension=ts
@@ -2945,7 +2945,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724249&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724249&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724249&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724249&extension=ts
-#EXTINF:-1 tvg-id="724249" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - NICKELODEON UHD
+#EXTINF:-1 tvg-id="724249" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - NICKELODEON UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724248&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724248&extension=ts
@@ -2954,7 +2954,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724248&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724248&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724248&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724248&extension=ts
-#EXTINF:-1 tvg-id="724248" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - NICKTOONS UHD
+#EXTINF:-1 tvg-id="724248" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - NICKTOONS UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724247&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724247&extension=ts
@@ -2963,7 +2963,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724247&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724247&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724247&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724247&extension=ts
-#EXTINF:-1 tvg-id="724247" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - SERIES PRIME UHD
+#EXTINF:-1 tvg-id="724247" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - SERIES PRIME UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724246&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724246&extension=ts
@@ -2972,7 +2972,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724246&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724246&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724246&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724246&extension=ts
-#EXTINF:-1 tvg-id="724246" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - SHOWCASE UHD
+#EXTINF:-1 tvg-id="724246" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - SHOWCASE UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724245&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724245&extension=ts
@@ -2981,7 +2981,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724245&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724245&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724245&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724245&extension=ts
-#EXTINF:-1 tvg-id="724245" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - STAR MOVIES UHD
+#EXTINF:-1 tvg-id="724245" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - STAR MOVIES UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724244&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724244&extension=ts
@@ -2990,7 +2990,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724244&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724244&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724244&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724244&extension=ts
-#EXTINF:-1 tvg-id="724244" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - STAR WORLD UHD
+#EXTINF:-1 tvg-id="724244" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - STAR WORLD UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724243&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724243&extension=ts
@@ -2999,7 +2999,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724243&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724243&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724243&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724243&extension=ts
-#EXTINF:-1 tvg-id="724243" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - TFC UHD
+#EXTINF:-1 tvg-id="724243" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - TFC UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724242&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724242&extension=ts
@@ -3008,7 +3008,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724242&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724242&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724242&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724242&extension=ts
-#EXTINF:-1 tvg-id="724242" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - TLC UHD
+#EXTINF:-1 tvg-id="724242" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - TLC UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724241&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724241&extension=ts
@@ -3017,7 +3017,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724241&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724241&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724241&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724241&extension=ts
-#EXTINF:-1 tvg-id="724241" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - VH UHD
+#EXTINF:-1 tvg-id="724241" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - VH UHD
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=724240&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=724240&extension=ts
@@ -3026,7 +3026,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=724240&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=724240&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=724240&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=724240&extension=ts
-#EXTINF:-1 tvg-id="724240" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="|AR| OSN",OSN - W UHD
+#EXTINF:-1 tvg-id="724240" tvg-logo="http://51.158.145.100/picons/logos/arabic/OSN-OSN.png" group-title="all",OSN - W UHD
 
 
 
@@ -3255,7 +3255,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862854&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862854&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862854&extension=ts
-#EXTINF:-1 tvg-id="862854" tvg-logo="http://51.158.145.100/picons/logos/bein/862854.png" group-title="|AR| BEIN ENTERTAINMENT",##### BEIN ENTERTAINMENT ##### | APPS TV | M3U
+#EXTINF:-1 tvg-id="862854" tvg-logo="http://51.158.145.100/picons/logos/bein/862854.png" group-title="all",##### BEIN ENTERTAINMENT ##### 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862853&extension=ts
@@ -3264,7 +3264,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862853&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862853&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862853&extension=ts
-#EXTINF:-1 tvg-id="862853" tvg-logo="http://51.158.145.100/picons/logos/bein/862853.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES PREMIERE 1 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862853" tvg-logo="http://51.158.145.100/picons/logos/bein/862853.png" group-title="all",BEIN MOVIES PREMIERE 1 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862852&extension=ts
@@ -3273,7 +3273,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862852&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862852&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862852&extension=ts
-#EXTINF:-1 tvg-id="862852" tvg-logo="http://51.158.145.100/picons/logos/bein/862852.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES ACTION 2 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862852" tvg-logo="http://51.158.145.100/picons/logos/bein/862852.png" group-title="all",BEIN MOVIES ACTION 2 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862851&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862851&extension=ts
@@ -3282,7 +3282,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862851&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862851&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862851&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862851&extension=ts
-#EXTINF:-1 tvg-id="862851" tvg-logo="http://51.158.145.100/picons/logos/bein/862851.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES DRAMA 3 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862851" tvg-logo="http://51.158.145.100/picons/logos/bein/862851.png" group-title="all",BEIN MOVIES DRAMA 3 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862850&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862850&extension=ts
@@ -3291,7 +3291,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862850&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862850&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862850&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862850&extension=ts
-#EXTINF:-1 tvg-id="862850" tvg-logo="http://51.158.145.100/picons/logos/bein/862850.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN MOVIES FAMILY 4 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862850" tvg-logo="http://51.158.145.100/picons/logos/bein/862850.png" group-title="all",BEIN MOVIES FAMILY 4 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862849&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862849&extension=ts
@@ -3300,7 +3300,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862849&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862849&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862849&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862849&extension=ts
-#EXTINF:-1 tvg-id="862849" tvg-logo="http://51.158.145.100/picons/logos/bein/862849.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN SERIES 1 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862849" tvg-logo="http://51.158.145.100/picons/logos/bein/862849.png" group-title="all",BEIN SERIES 1 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862848&extension=ts
@@ -3309,7 +3309,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862848&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862848&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862848&extension=ts
-#EXTINF:-1 tvg-id="862848" tvg-logo="http://51.158.145.100/picons/logos/bein/862848.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN SERIES 2 HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862848" tvg-logo="http://51.158.145.100/picons/logos/bein/862848.png" group-title="all",BEIN SERIES 2 HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862847&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862847&extension=ts
@@ -3318,7 +3318,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862847&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862847&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862847&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862847&extension=ts
-#EXTINF:-1 tvg-id="862847" tvg-logo="http://51.158.145.100/picons/logos/bein/862847.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN DRAMA HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862847" tvg-logo="http://51.158.145.100/picons/logos/bein/862847.png" group-title="all",BEIN DRAMA HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862846&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862846&extension=ts
@@ -3327,7 +3327,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862846&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862846&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862846&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862846&extension=ts
-#EXTINF:-1 tvg-id="862846" tvg-logo="http://51.158.145.100/picons/logos/bein/862846.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN FOOD NETWORK HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862846" tvg-logo="http://51.158.145.100/picons/logos/bein/862846.png" group-title="all",BEIN FOOD NETWORK HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862845&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862845&extension=ts
@@ -3336,7 +3336,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862845&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862845&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862845&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862845&extension=ts
-#EXTINF:-1 tvg-id="862845" tvg-logo="http://51.158.145.100/picons/logos/bein/862845.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN GOURMET HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862845" tvg-logo="http://51.158.145.100/picons/logos/bein/862845.png" group-title="all",BEIN GOURMET HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862844&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862844&extension=ts
@@ -3345,7 +3345,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862844&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862844&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862844&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862844&extension=ts
-#EXTINF:-1 tvg-id="862844" tvg-logo="http://51.158.145.100/picons/logos/bein/862844.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN FATAFEET HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862844" tvg-logo="http://51.158.145.100/picons/logos/bein/862844.png" group-title="all",BEIN FATAFEET HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862841&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862841&extension=ts
@@ -3354,7 +3354,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862841&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862841&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862841&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862841&extension=ts
-#EXTINF:-1 tvg-id="862841" tvg-logo="http://51.158.145.100/picons/logos/bein/862841.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN FOX MOVIES HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862841" tvg-logo="http://51.158.145.100/picons/logos/bein/862841.png" group-title="all",BEIN FOX MOVIES HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862840&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862840&extension=ts
@@ -3363,7 +3363,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862840&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862840&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862840&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862840&extension=ts
-#EXTINF:-1 tvg-id="862840" tvg-logo="http://51.158.145.100/picons/logos/bein/862840.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN FOX ACTION HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862840" tvg-logo="http://51.158.145.100/picons/logos/bein/862840.png" group-title="all",BEIN FOX ACTION HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862838&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862838&extension=ts
@@ -3372,7 +3372,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862838&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862838&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862838&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862838&extension=ts
-#EXTINF:-1 tvg-id="862838" tvg-logo="http://51.158.145.100/picons/logos/arabic/862838.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN STAR WORLD HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862838" tvg-logo="http://51.158.145.100/picons/logos/arabic/862838.png" group-title="all",BEIN STAR WORLD HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862837&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862837&extension=ts
@@ -3381,7 +3381,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862837&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862837&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862837&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862837&extension=ts
-#EXTINF:-1 tvg-id="862837" tvg-logo="http://51.158.145.100/picons/logos/arabic/862837.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN BBC EARTH HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862837" tvg-logo="http://51.158.145.100/picons/logos/arabic/862837.png" group-title="all",BEIN BBC EARTH HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862836&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862836&extension=ts
@@ -3390,7 +3390,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862836&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862836&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862836&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862836&extension=ts
-#EXTINF:-1 tvg-id="862836" tvg-logo="http://51.158.145.100/picons/logos/arabic/862836.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN TRAVEL HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862836" tvg-logo="http://51.158.145.100/picons/logos/arabic/862836.png" group-title="all",BEIN TRAVEL HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862835&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862835&extension=ts
@@ -3399,7 +3399,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862835&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862835&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862835&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862835&extension=ts
-#EXTINF:-1 tvg-id="862835" tvg-logo="http://51.158.145.100/picons/logos/arabic/862835.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN ANIMAL PLANET HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862835" tvg-logo="http://51.158.145.100/picons/logos/arabic/862835.png" group-title="all",BEIN ANIMAL PLANET HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862834&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862834&extension=ts
@@ -3408,7 +3408,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862834&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862834&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862834&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862834&extension=ts
-#EXTINF:-1 tvg-id="862834" tvg-logo="http://51.158.145.100/picons/logos/arabic/862834.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN NATIONAL GEO HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862834" tvg-logo="http://51.158.145.100/picons/logos/arabic/862834.png" group-title="all",BEIN NATIONAL GEO HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862833&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862833&extension=ts
@@ -3417,7 +3417,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862833&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862833&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862833&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862833&extension=ts
-#EXTINF:-1 tvg-id="862833" tvg-logo="http://51.158.145.100/picons/logos/arabic/862833.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN NATIONAL GEO WILD HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862833" tvg-logo="http://51.158.145.100/picons/logos/arabic/862833.png" group-title="all",BEIN NATIONAL GEO WILD HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862832&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862832&extension=ts
@@ -3426,7 +3426,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862832&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862832&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862832&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862832&extension=ts
-#EXTINF:-1 tvg-id="862832" tvg-logo="http://51.158.145.100/picons/logos/arabic/862832.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN HGTV HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862832" tvg-logo="http://51.158.145.100/picons/logos/arabic/862832.png" group-title="all",BEIN HGTV HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862831&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862831&extension=ts
@@ -3435,7 +3435,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862831&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862831&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862831&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862831&extension=ts
-#EXTINF:-1 tvg-id="862831" tvg-logo="http://51.158.145.100/picons/logos/arabic/862831.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN BABY TV HD AR | APPS TV | M3U
+#EXTINF:-1 tvg-id="862831" tvg-logo="http://51.158.145.100/picons/logos/arabic/862831.png" group-title="all",BEIN BABY TV HD AR 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862830&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862830&extension=ts
@@ -3444,7 +3444,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862830&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862830&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862830&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862830&extension=ts
-#EXTINF:-1 tvg-id="862830" tvg-logo="http://51.158.145.100/picons/logos/arabic/862830.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN JEEM KIDS HD | APPS TV | M3U
+#EXTINF:-1 tvg-id="862830" tvg-logo="http://51.158.145.100/picons/logos/arabic/862830.png" group-title="all",BEIN JEEM KIDS HD 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862829&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862829&extension=ts
@@ -3453,7 +3453,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862829&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862829&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862829&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862829&extension=ts
-#EXTINF:-1 tvg-id="862829" tvg-logo="http://51.158.145.100/picons/logos/arabic/862829.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN BARAEM KIDS | APPS TV | M3U
+#EXTINF:-1 tvg-id="862829" tvg-logo="http://51.158.145.100/picons/logos/arabic/862829.png" group-title="all",BEIN BARAEM KIDS 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862826&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862826&extension=ts
@@ -3462,7 +3462,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862826&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862826&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862826&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862826&extension=ts
-#EXTINF:-1 tvg-id="862826" tvg-logo="http://51.158.145.100/picons/logos/arabic/862826.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN BOOMERANG HD AR | APPS TV | M3U
+#EXTINF:-1 tvg-id="862826" tvg-logo="http://51.158.145.100/picons/logos/arabic/862826.png" group-title="all",BEIN BOOMERANG HD AR 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=862824&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=862824&extension=ts
@@ -3471,7 +3471,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862824&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862824&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862824&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862824&extension=ts
-#EXTINF:-1 tvg-id="862824" tvg-logo="http://51.158.145.100/picons/logos/arabic/862824.png" group-title="|AR| BEIN ENTERTAINMENT",BEIN CARTOON NETWORK HD AR | APPS TV | M3U
+#EXTINF:-1 tvg-id="862824" tvg-logo="http://51.158.145.100/picons/logos/arabic/862824.png" group-title="all",BEIN CARTOON NETWORK HD AR 
 
 
 
