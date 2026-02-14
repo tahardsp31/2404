@@ -737,36 +737,6 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257294&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257294&extension=ts
 #EXTINF:-1 tvg-id="257294" tvg-logo="http://51.158.145.100/picons/logos/arabic/257294.png" group-title="all",##### ROTANA / ART #####
 
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257302&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257302&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257302&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257302&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257302&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257302&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257302&extension=ts
-#EXTINF:-1 tvg-id="257302" tvg-logo="http://51.158.145.100/picons/logos/arabic/257302.png" group-title="all",AR - ROTANA COMEDY HD
-
-
-
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257296&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257296&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257296&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257296&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257296&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257296&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257296&extension=ts
-#EXTINF:-1 tvg-id="257296" tvg-logo="http://51.158.145.100/picons/logos/arabic/257296.png" group-title="all",AR - ROTANA CINEMA HD
-
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257300&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257300&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257300&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257300&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257300&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257300&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257300&extension=ts
-#EXTINF:-1 tvg-id="257300" tvg-logo="http://51.158.145.100/picons/logos/arabic/257300.png" group-title="all",AR - ROTANA CLASSIC HD
-
-
 
 
 
@@ -7240,6 +7210,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=702327&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=702327&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=702327&extension=ts
 #EXTINF:-1 tvg-id="702327" tvg-logo="http://51.158.145.100/picons/logos/france/702327.png" group-title="all",FR -  CANALPLAY 5
+
 
 
 
