@@ -21,16 +21,6 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=680105&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=680105&extension=ts
 #EXTINF:-1 tvg-id="680105" tvg-logo="http://51.158.145.100/picons/logos/arabic/680105.png" group-title="all",AR - AL JAZERA SD
 
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=674438&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=674438&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=674438&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=674438&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=674438&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=674438&extension=ts
-http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=674438&extension=ts
-#EXTINF:-1 tvg-id="674438" tvg-logo="http://51.158.145.100/picons/logos/arabic/674438.png" group-title="all",AR - AL JAZERA HD
-
-
 
 
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250185&extension=ts
@@ -7547,5 +7537,6 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=507536&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=507536&extension=ts
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=507536&extension=ts
 #EXTINF:-1 tvg-id="507536" tvg-logo="http://51.158.145.100/picons/logos/france/507536.png" group-title="all",FR - 24/7 ASTERIX
+
 
 
